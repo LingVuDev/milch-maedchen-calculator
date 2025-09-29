@@ -6,9 +6,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Set basePath if your repo name is not the domain
-  // basePath: '/milch-maedchen-calculator',
-  // assetPrefix: '/milch-maedchen-calculator/',
+  // Set basePath for GitHub Pages deployment
+  basePath: '/milch-maedchen-calculator',
+  assetPrefix: '/milch-maedchen-calculator/',
 };
 
 export default nextConfig;

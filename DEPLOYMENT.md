@@ -10,7 +10,7 @@
    git init
    git add .
    git commit -m "Initial commit"
-   git remote add origin https://github.com/yourusername/milch-maedchen-calculator.git
+   git remote add origin https://github.com/LingVuDev/milch-maedchen-calculator.git
    git push -u origin main
    ```
 
@@ -47,7 +47,7 @@ const nextConfig: NextConfig = {
 ### 5. Access Your Site
 
 Your site will be available at:
-`https://yourusername.github.io/milch-maedchen-calculator/`
+`https://lingvudev.github.io/milch-maedchen-calculator/`
 
 ## Troubleshooting
 
