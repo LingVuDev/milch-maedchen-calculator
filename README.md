@@ -13,7 +13,7 @@ A modern investment calculator built with Next.js, TypeScript, and shadcn/ui tha
 
 ## Live Demo
 
-Visit the live application: [https://yourusername.github.io/milch-maedchen-calculator/](https://yourusername.github.io/milch-maedchen-calculator/)
+Visit the live application: [https://lingvudev.github.io/milch-maedchen-calculator/](https://lingvudev.github.io/milch-maedchen-calculator/)
 
 ## Getting Started
 
