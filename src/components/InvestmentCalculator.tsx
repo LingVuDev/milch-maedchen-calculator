@@ -206,7 +206,7 @@ export default function InvestmentCalculator() {
 
   return (
     <div className="container mx-auto p-6 space-y-8">
-      <Card className="my-6">
+      <Card className="my-6 border-2 border-gray-800">
         <CardHeader>
           <CardTitle>Milchmädchen Calculator</CardTitle>
           <CardDescription>
@@ -354,9 +354,9 @@ export default function InvestmentCalculator() {
         </CardContent>
       </Card>
 
-          {/* Results Table */}
+      {/* Results Table */}
       {results.length > 0 && (
-        <Card className="my-6">
+        <Card className="my-6 border-2 border-gray-800">
           <CardHeader>
             <CardTitle>Investment Results</CardTitle>
             <CardDescription>
